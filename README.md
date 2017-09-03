@@ -16,7 +16,7 @@ This software is still in beta vesion, contributions in the form of coding or do
 ```
 
 # Installation:
-* git clone git://github.com/drpoom/dfm ./
+* git clone https://github.com/drpoom/dfm.git
 * Or simply download the project and extract to your local folder
 
 # Usage:
