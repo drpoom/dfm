@@ -7,7 +7,7 @@ This software is still in beta vesion, contributions in the form of coding or do
 
 
 # Donation:
-* BTC: 
+* BTC: 1E6nAQ6x61SCnTtgxn7TYNT4p3q3SiZXkA
 * ETH: 0xe87a5b228a8cf327caf4a74cc2e0a5886d0bd9f5
 
 # Prerequisites in Ubuntu 16.04:
