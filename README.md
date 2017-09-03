@@ -25,11 +25,17 @@ This software is still in beta vesion, contributions in the form of coding or do
   # Or 'sudo python dfm.py&' to run in background 
 ```
 
-# Hint:
-  Add your own address to the first line in address_pass.txt. All unknown addresses will be filtered and replaced with the first address in address_pass.txt.
+# Configuration:
+* TODO: Make a configuration file. It is currently hard-coded.
+  * Port: 9999
+* Address:
+  * Add your own address to the first line in address_pass.txt. All unknown addresses will be filtered and replaced with the first address in address_pass.txt.
+  
 
 # Tested For
 * Ethereum
   * Claymore 10 in Ubuntu 16.04
   * Claymore 9.x in Ubuntu 16.04
   * ccminer in Ubuntu 16.04
+* Zcash
+  * EBWF is tested (to validate '-nofee' option)
