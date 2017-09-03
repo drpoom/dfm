@@ -38,4 +38,5 @@ This software is still in beta vesion, contributions in the form of coding or do
   * Claymore 9.x in Ubuntu 16.04
   * ccminer in Ubuntu 16.04
 * Zcash
-  * EBWF is tested (to validate '-nofee' option)
+  * EBWFmner is tested (to validate '-nofee' option)
+
