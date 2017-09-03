@@ -6,25 +6,26 @@ Depending on the configurations, users can completely remove dev-fee if intended
 This software is still in beta vesion, contributions in the form of coding or donations are very welcomed.
 
 
-Donation:
+# Donation:
+* BTC: 
+* ETH: 0xe87a5b228a8cf327caf4a74cc2e0a5886d0bd9f5
 
-  BTC: 
-  ETH: 0xe87a5b228a8cf327caf4a74cc2e0a5886d0bd9f5
+# Prerequisites in Ubuntu 16.04:
+```bash
+  sudo apt install python python-nfqueue python-scapy -y
+```
 
+# Installation:
+* git clone git://github.com/drpoom/dfm ./
+* Or simply download the project and extract to your local folder
 
-Installation in Ubuntu 16.04:
-
-  sudo apt install python python-nfqueue python-scapy -y
-
-
-Usage:
-
+# Usage:
+```bash
   sudo python dfm.py
   # Or 'sudo python dfm.py&' to run in background 
+```
 
-
-Hint:
-
+# Hint:
   Add your own address to the first line in address_pass.txt. All unknown addresses will be filtered and replaced with the first address in address_pass.txt.
 
 
