@@ -31,4 +31,5 @@ This software is still in beta vesion, contributions in the form of coding or do
 # Tested For
 * Ethereum
   * Claymore 10 in Ubuntu 16.04
+  * Claymore 9.x in Ubuntu 16.04
   * ccminer in Ubuntu 16.04
